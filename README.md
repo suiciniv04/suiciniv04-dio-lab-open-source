@@ -75,7 +75,7 @@ Introduzir ao versionamento de código com Git e GitHub.
     </td>
     <td align="left">
       <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
+        <span><b>Elidiana Andrade (Excelente Professora) </b></span>
       </a>
       <br>
       <span>Desenvolvedora Front-end</span>
